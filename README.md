@@ -50,7 +50,7 @@ Assets/
   Audio/                     Efeitos sonoros gerados proceduralmente
 ```
 
-Todos os sprites e sons foram gerados por código dentro do projeto. Não há assets de terceiros.
+Todos os sprites e sons são originais, criados especialmente para este jogo por geração procedural. Não há assets de terceiros.
 
 ## Executar
 
